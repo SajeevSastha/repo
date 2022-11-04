@@ -26,6 +26,8 @@ case $METRIC_TYPE in
 
   *)
     printf "Please provide valid input.\n";
+    
+   printf "Please provide valid inputss.\n";
       exit 1;
       ;;
 esac
